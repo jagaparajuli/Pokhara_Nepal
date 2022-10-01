@@ -1,3 +1,9 @@
 # This is the first program by Jagadish
 
 print('Hi Jagadish for pyton test')
+a=input('What is your age ?')
+ when a <= 18:
+   print('It is too small')
+ else:
+   print( 'He is ok for me')
+  
