@@ -8,7 +8,9 @@ a=input('What is your age ?')
    print( 'He is ok for me')
   
 Addding this line 
+please
+please 
 hello
 hello
 hello
-hello
+Please
